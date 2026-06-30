@@ -1,1 +1,1 @@
-# peptix-legal
+# peptex-legal
